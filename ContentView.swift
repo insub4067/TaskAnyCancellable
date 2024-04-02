@@ -1,7 +1,7 @@
 import SwiftUI
 import Combine
 
-struct TaskCancelBagPractice: View {
+struct TaskAnyCancellablePractice: View {
     
     fileprivate let viewModel = ViewModel()
     
